@@ -1,0 +1,6 @@
+node_modules/
+dist/
+__deployer__.zip
+.deployed
+.DS_Store
+.env
