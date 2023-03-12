@@ -6,6 +6,4 @@ packages:
         limits:
           timeout: 5000
           memory: 512        
-        environment:
-          IP_DEV_1: "${IP_DEV_1}"
                 
